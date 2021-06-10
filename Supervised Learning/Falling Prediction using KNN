@@ -1,1 +1,5 @@
+Introduction
+Fall prediction systems typically estimate real-time or future fall risk. These systems are helpful in preventing and reducing  fall risks. 
+In real-time fall risk prediction, data are collected from sensors, and are analyzed to compute the appropriate feature set. 
+Use the data sent from Gyroscope sensor and Accelerometer sensor to categorize the motion.
 
