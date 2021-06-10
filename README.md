@@ -1,10 +1,10 @@
 # Machine-Learning
-===============================
+-------------------------------
 ## Supervised Learning
 -------------------------------
 ## Falling Prediction using KNN
 -------------------------------
-[Google Slides Link](https://docs.google.com/presentation/d/1726yjfxdBb1fX9QiS76OW03gdmqffNro79BLjxoPJ2w/present?usp=sharing)
+[Project Falling Detection Google Slides](https://docs.google.com/presentation/d/1726yjfxdBb1fX9QiS76OW03gdmqffNro79BLjxoPJ2w/present?usp=sharing)
 
 
 
@@ -19,4 +19,4 @@
 -----------------------------------------------
 ## Use Overfitting To Evaluate Different Models
 -----------------------------------------------
-[Google Slides Link](https://docs.google.com/presentation/d/1oUjMS97vXK5Cq5j_ICeAX-f5-RTPQvuMATjOu5VTdbQ/present?usp=sharing) text in purple 
+[Overfitting Evaluation Google Slides](https://docs.google.com/presentation/d/1oUjMS97vXK5Cq5j_ICeAX-f5-RTPQvuMATjOu5VTdbQ/present?usp=sharing) 
