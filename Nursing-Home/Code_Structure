@@ -1,0 +1,21 @@
+Source codes of FallDetection
+Code Structure
+|-- AndroidManifest.xml
+|-- assets
+|   |-- fallingData.csv
+|-- res
+|   |-- drawable
+|   |-- layout
+|   |   `-- activity_main.xml
+|   `-- values
+|       |-- colors.xml
+|       `-- strings.xml
+`-- src
+    `-- com
+        `-- example
+            `-- falldetection
+                |-- MainActivity.java
+                |-- SQLiteDB.java
+                |-- DataBean.java
+                |-- DistanceData.java
+                |-- MyConstant.java
